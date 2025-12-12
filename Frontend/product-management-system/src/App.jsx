@@ -16,7 +16,7 @@ function App() {
   const [editQuantity, setEditQuantity] = useState("");
   const [editPrice, setEditPrice] = useState("");
 
-  const API = "http://localhost:3001";
+  const API = "https://product-management-system345.onrender.com";
 
   // Fetch Items
   const fetchItems = async (token) => {
