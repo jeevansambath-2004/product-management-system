@@ -1,0 +1,11 @@
+{
+  "name": "product-management-system",
+  "version": "1.0.0",
+  "description": "Product Management System - Full Stack Application",
+  "private": true,
+  "scripts": {
+    "dev": "cd Frontend/product-management-system && npm run dev",
+    "build": "cd Frontend/product-management-system && npm run build",
+    "preview": "cd Frontend/product-management-system && npm run preview"
+  }
+}
