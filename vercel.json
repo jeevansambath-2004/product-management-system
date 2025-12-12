@@ -13,8 +13,9 @@
       "src": "/(.*)",
       "dest": "Frontend/product-management-system/dist/index.html"
     }
-  ],
-  "env": {
-    "VITE_API_URL": "@vite_api_url"
-  }
+  ] ,
+    "env": {
+        "API_URL": "https://product-management-system345.onrender.com"
+    }
+
 }
